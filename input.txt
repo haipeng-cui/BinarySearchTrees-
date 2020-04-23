@@ -1,0 +1,105 @@
+input 
+3
+1 1
+2 2
+3 3
+3
+1 1
+-2 2
+3 3
+document
+the resulting sum will have only 2 terms, not 3
+sum
+number
+evaluate
+-2
+yes
+4
+no
+print
+coefficient
+3
+yes
+1
+yes
+7
+no
+reset
+
+input
+5
+3 3
+6 0
+-8 1
+1 7
+4 4
+3
+2 6
+-4 4
+-9 1
+sum
+evaluate
+3
+yes
+-3
+no
+reset
+
+document
+b will be the zero polynomial
+input
+5
+3     4
+7     2
+-3 5
+6     0
+-1 4
+1
+0 1
+sum
+coefficient
+7
+no
+evaluate
+1
+no
+reset
+
+document
+a will be the zero polynomial
+input
+2
+-2 5
+2 5
+5
+2 9
+2 7
+2 5
+-2 3
+2 4
+sum
+evaluate 
+-1
+no
+number
+print
+coefficient
+28
+no
+reset
+
+input
+4 
+1 1
+1 1
+1 1
+1 1
+2
+1 1
+1 1
+sum
+number
+evaluate
+-10
+no
+quit
